@@ -36,3 +36,8 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Checkout the Live App
+
+[Search Engine App](https://huggingface.co/spaces/Sanc1403/search-engine)
+
+
