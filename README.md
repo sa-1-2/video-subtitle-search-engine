@@ -1,5 +1,8 @@
 # Video Subtitle Search Engine
 
+![image](https://github.com/sa-1-2/video-subtitle-search-engine/assets/92681055/6beda970-a557-4b24-bdcb-d4bf7dc4a61c)
+
+
 ## Background:
 In the fast-evolving landscape of digital content, effective search engines play a pivotal role in connecting users with relevant information. For Google, providing a seamless and accurate search experience is paramount. This project focuses on improving the search relevance for video subtitles, enhancing the accessibility of video content.
 
